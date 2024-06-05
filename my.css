@@ -1,3 +1,16 @@
 span{
     color: greenyellow;
 }
+/* .container {
+    display: flex; /* フレックスボックスを使用 */
+    align-items: center; /* 垂直方向の中央揃え */
+}
+.image {
+    margin-right: 10px; /* 画像とテキストの間にマージンを追加 */
+}
+
+.NavigationMenu{
+    /* height: 90px; */
+    text-align: center;
+    background-color: rgb(201, 131, 77);
+} */
